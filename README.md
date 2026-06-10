@@ -40,3 +40,9 @@ AWS®, Amazon Web Services® e seus respectivos logotipos são marcas registrada
 ---
 
 ⭐ Se este material foi útil para você, considere deixar uma estrela no repositório.
+
+## License
+
+This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+For more information, see the LICENSE file.
