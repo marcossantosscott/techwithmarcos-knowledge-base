@@ -1,47 +1,101 @@
-# AWS Presentations Repository
+# TechWithMarcos Knowledge Base
 
-Bem-vindo ao repositório de apresentações utilizadas nos vídeos do canal **TechWithMarcoss**.
+Welcome to the official repository for materials used in the **TechWithMarcos** channel.
 
-O objetivo deste projeto é disponibilizar gratuitamente materiais de estudo sobre AWS, Cloud Computing, DevOps, Cloud Security, FinOps, Observabilidade, Carreira.
+The goal of this project is to freely share presentations, diagrams, documents, and study materials covering topics such as:
 
-## Conteúdo
-
-Atualmente o repositório contém apresentações sobre:
-
-* AWS Resource Access Manager (RAM)
-* AWS Transit Gateway
-* Outros temas abordados no canal(serão adicionados)
-
-## Como utilizar
-
-Você pode:
-
-* Baixar os arquivos PDF
-* Utilizar como material de estudo
-* Compartilhar com colegas
-* Utilizar como referência para treinamentos internos
-
-## Canal no YouTube
-
-Acompanhe os vídeos completos no canal:
-
-📺 TechWithMarcoss
-
-## Contribuições
-
-Caso encontre algum erro ou tenha sugestões de melhoria, fique à vontade para abrir uma Issue ou Pull Request(Ou me manda no Linkedin kkkk não uso muito github)
-
-## Aviso
-
-Este material possui caráter educacional e pode ser atualizado conforme mudanças nos serviços AWS.
-
-AWS®, Amazon Web Services® e seus respectivos logotipos são marcas registradas da Amazon.com, Inc. ou de suas afiliadas.
+* AWS
+* Azure
+* Cloud Computing
+* DevOps
+* Platform Engineering
+* Cloud Security
+* Kubernetes
+* Observability
+* FinOps
+* Artificial Intelligence
+* Technology Careers
 
 ---
 
-⭐ Se este material foi útil para você, considere deixar uma estrela no repositório.
+## 📚 Contents
 
-## License
+This repository currently contains materials about:
+
+### AWS
+
+* AWS Resource Access Manager (RAM)
+* AWS Transit Gateway
+
+### Coming Soon
+
+* AWS Organizations
+* AWS Security Hub
+* Amazon GuardDuty
+* Amazon Bedrock
+* Terraform
+* Kubernetes
+* Observability
+* Platform Engineering
+* And many other topics covered on the channel
+
+---
+
+## 🚀 How to Use
+
+You are free to:
+
+* Download the PDF files
+* Use them as study material
+* Share them with colleagues
+* Use them as a reference for internal training sessions
+* Support your certification and interview preparation
+
+---
+
+## 📺 YouTube Channel
+
+Follow the complete video tutorials and upcoming content on:
+
+**TechWithMarcos**
+
+Topics include Cloud Computing, AWS, DevOps, Cloud Security, Kubernetes, FinOps, Observability, Platform Engineering, and Career Development.
+
+---
+
+## 🤝 Contributions
+
+Found an error or have a suggestion for improvement?
+
+Feel free to open an Issue or Pull Request.
+
+Or simply send me a message on LinkedIn 😄
+
+---
+
+## ⚠️ Disclaimer
+
+All content in this repository is intended for educational purposes and may be updated as technologies and cloud services evolve.
+
+AWS®, Amazon Web Services®, and their respective logos are trademarks of Amazon.com, Inc. or its affiliates.
+
+Microsoft®, Azure®, and other mentioned trademarks belong to their respective owners.
+
+---
+
+## ⭐ Support the Project
+
+If you found these materials useful:
+
+* Leave a star on the repository
+* Share it with other professionals
+* Subscribe to the channel
+
+Your support helps keep high-quality technical content freely available to the community.
+
+---
+
+## 📄 License
 
 This repository is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
